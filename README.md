@@ -16,7 +16,7 @@ Programming Languages: Python (proficient), SQL (limited experience), R (limited
 Tools & Frameworks: R Studio, HTML, Tableau
 
 🔗 Connect with Me:
-I'm always open to collaboration, learning, and discussions! Feel free to connect with me here or on LinkedIn [Link to LinkedIn] to exchange ideas, share insights, or just chat about the exciting world of data.
+I'm always open to collaboration, learning, and discussions! Feel free to connect with me here or on LinkedIn (https://www.linkedin.com/in/adrian-jaucian-982b67179/) to exchange ideas, share insights, or just chat about the exciting world of data.
 
 📈 Continuous Learning:
 This GitHub repository is not just a showcase but a dynamic space that evolves with my continuous learning journey. Stay tuned for updates as I explore new technologies, frameworks, and dive deeper into the ever-expanding realm of data science.
