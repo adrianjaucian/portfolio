@@ -13,6 +13,12 @@ I hold a solid foundation in data science, now in the last semester of my bachel
 Programming Languages: Python (proficient), SQL (limited experience), R (limited experience), Java (basic understanding)
 Tools & Frameworks: R Studio, HTML, Tableau
 
+🌐 Project Highlights:
+
+Embiid23: An in-depth visual analysis of Joel Embiid's 2022/23 MVP Season.
+WAR_Alternative: A predictive model built to use as an alternative metric to WAR in baseball.
+Textbased_Dice_Game: 3 simple text-based dice games using python.
+
 🔗 Connect with Me:
 I'm always open to collaboration, learning, and discussions! Feel free to connect with me here or on LinkedIn (https://www.linkedin.com/in/adrian-jaucian-982b67179/) to exchange ideas, share insights, or just chat about the exciting world of data.
 
