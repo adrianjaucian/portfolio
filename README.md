@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub Repository! 👋
+# Welcome to my GitHub Repository!
 
 Hello there! I'm Adrian Jaucian, a passionate data enthusiast and aspiring data scientist with a knack for transforming raw data into meaningful insights. This space is dedicated to showcasing my journey through the world of data science, machine learning, and data engineering, with a touch of creativity and innovation.
 
